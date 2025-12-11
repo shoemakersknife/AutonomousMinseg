@@ -8,6 +8,10 @@ Involves arduino microcontroller programming, PWM motor control, sensor integrat
 
 Smooth acceleration/deceleration algorithms using custom PWM ramping to prevent motor jerk and maintain stability.
 
+Conducted iterative testing and system tuning to ensure reliable detection and consistent behavior.
+
+Debugged embedded code using serial monitoring, improving system responsiveness and preventing collisions.
+
 *Hardware components*
 
 -MinSegMega V4 Board: Arduino Compatible Mega 2560 (compatible with Arduino IDE)
@@ -27,9 +31,3 @@ Smooth acceleration/deceleration algorithms using custom PWM ramping to prevent 
 -Retractable USB Cable
 
 -3D printed leg
-
-Conducted iterative testing and system tuning to ensure reliable detection and consistent behavior.
-
-Debugged embedded code using serial monitoring, improving system responsiveness and preventing collisions.
-
-
