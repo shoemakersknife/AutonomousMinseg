@@ -1,4 +1,6 @@
-**Autonomous MinSeg**
+**Autonomous MinSeg Robot**
+
+![image4](https://github.com/user-attachments/assets/542aaa4a-f305-480d-a5a2-bb1493cd3393)
 
 Designed and implemented a structurally modified MinSeg robot capable of obstacle avoidance.
 
