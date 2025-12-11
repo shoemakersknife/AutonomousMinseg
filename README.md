@@ -6,6 +6,8 @@ Designed and implemented a structurally modified MinSeg robot capable of obstacl
 
 Involves arduino microcontroller programming, PWM motor control, sensor integration, and CAD design.
 
+Smooth acceleration/deceleration algorithms using custom PWM ramping to prevent motor jerk and maintain stability.
+
 *Hardware components*
 
 -MinSegMega V4 Board: Arduino Compatible Mega 2560 (compatible with Arduino IDE)
@@ -26,6 +28,8 @@ Involves arduino microcontroller programming, PWM motor control, sensor integrat
 
 -3D printed leg
 
-Tuning code for deceleration responsiveness
-Iterative debugging needed to avoid collisions
+Conducted iterative testing and system tuning to ensure reliable detection and consistent behavior.
+
+Debugged embedded code using serial monitoring, improving system responsiveness and preventing collisions.
+
 
